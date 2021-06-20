@@ -1,0 +1,48 @@
+.blog-create {
+  margin: 0 auto;
+  max-width: 40rem;
+}
+.blog-create .blog-row {
+  margin-bottom: 15px;
+}
+.blog-row input,
+textarea {
+  height: 20px;
+  width: calc(100% - 20px);
+  padding: 10px;
+  border: 1px solid rgb(194, 181, 181);
+  border-radius: 3px;
+}
+
+.blog-row textarea {
+  height: 150px;
+  resize: none;
+}
+
+.blog-row textarea:focus,
+input:focus {
+  outline: 1px solid rgb(112, 109, 109);
+}
+
+.blog-row label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.blog-row button {
+  font: inherit;
+  border: 1px solid #4f005f;
+  background: #4f005f;
+  color: white;
+  padding: 1rem 0.5rem;
+  cursor: pointer;
+  width: 150px;
+}
+
+.blog-row select {
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 6px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}

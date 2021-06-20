@@ -1,0 +1,11 @@
+.blog {
+  margin-right: 15px;
+  flex: 1 1 auto;
+  &:hover {
+    cursor: pointer;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}

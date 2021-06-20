@@ -1,0 +1,8 @@
+.user {
+  border: 1px solid #b6a9a9;
+  padding: 10px;
+}
+
+.user:not(:last-of-type) {
+  margin-bottom: 20px;
+}

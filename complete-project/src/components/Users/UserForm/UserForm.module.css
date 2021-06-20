@@ -1,0 +1,20 @@
+.userForm .user-form-element:not(:last-of-type) {
+  margin-bottom: 10px;
+}
+.userForm .user-form-element label {
+  display: block;
+  width: 100%;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.userForm .user-form-element input {
+  width: 100%;
+  border: 1px solid #ddd;
+  height: 30px;
+  padding-left: 10px;
+}
+
+.userForm .user-form-element input:focus {
+  outline: none;
+}
