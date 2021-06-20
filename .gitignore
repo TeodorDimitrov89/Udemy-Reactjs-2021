@@ -1,3 +1,5 @@
-advanced-effect-reducers-context/node_modules
-./advanced-effect-reducers-context/node_modules
+useEffect/node_modules
+./useEffect/node_modules
+useReducer/node_modules
+./useReducer/node_modules
 .vscode/
