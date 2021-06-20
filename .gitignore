@@ -2,4 +2,7 @@ useEffect/node_modules
 ./useEffect/node_modules
 useReducer/node_modules
 ./useReducer/node_modules
+
+contextAPI/node_modules
+./contextAPI/node_modules
 .vscode/
