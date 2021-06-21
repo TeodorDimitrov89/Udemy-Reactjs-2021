@@ -3,6 +3,9 @@ useEffect/node_modules
 useReducer/node_modules
 ./useReducer/node_modules
 
+
+./foodOrderApp/node_modules
+foodOrderApp/node_modules
 contextAPI/node_modules
 ./contextAPI/node_modules
 .vscode/
