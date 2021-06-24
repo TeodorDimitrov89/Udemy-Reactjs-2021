@@ -8,4 +8,7 @@ useReducer/node_modules
 foodOrderApp/node_modules
 contextAPI/node_modules
 ./contextAPI/node_modules
+
+reactOptimizationTechniques/node_modules
+./reactOptimizationTechniques/node_modules
 .vscode/
