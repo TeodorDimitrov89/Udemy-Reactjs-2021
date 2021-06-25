@@ -11,4 +11,6 @@ contextAPI/node_modules
 
 reactOptimizationTechniques/node_modules
 ./reactOptimizationTechniques/node_modules
+httpRequests/node_modules
+./httpRequests/node_modules
 .vscode/
