@@ -13,4 +13,11 @@ reactOptimizationTechniques/node_modules
 ./reactOptimizationTechniques/node_modules
 httpRequests/node_modules
 ./httpRequests/node_modules
+
+introCustomHooksExample/node_modules
+./introCustomHooksExample/node_modules
+
+customHooks/node_modules
+./customHooks/node_modules
+
 .vscode/
