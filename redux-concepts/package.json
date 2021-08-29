@@ -1,0 +1,14 @@
+{
+  "name": "redux-concepts",
+  "version": "1.0.0",
+  "description": "redux-concepts",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teodor Dimitrov",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.1.1"
+  }
+}

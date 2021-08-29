@@ -22,4 +22,11 @@ customHooks/node_modules
 
 forms-user-input/node_modules
 ./forms-user-input/node_modules
+
+
+./redux-basics/node_modules
+redux-basics/node_modules
+
+./redux-concepts/node_modules
+redux-concepts/node_modules
 .vscode/
