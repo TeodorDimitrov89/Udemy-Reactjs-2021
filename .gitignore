@@ -29,4 +29,7 @@ redux-basics/node_modules
 
 ./redux-concepts/node_modules
 redux-concepts/node_modules
+
+./redux-advanced/node_modules
+redux-advanced/node_modules
 .vscode/
