@@ -32,4 +32,6 @@ redux-concepts/node_modules
 
 ./redux-advanced/node_modules
 redux-advanced/node_modules
+
+react-router/node_modules
 .vscode/
