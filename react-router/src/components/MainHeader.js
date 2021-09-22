@@ -1,4 +1,4 @@
-import { Link, NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import classes from './MainHeader.module.css';
 const MainHeader = () => {
   return (
