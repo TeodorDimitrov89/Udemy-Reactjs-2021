@@ -1,12 +1,15 @@
+import { Link, useRouteMatch } from 'react-router-dom';
 import classes from './NoQuotesFound.module.css';
 
 const NoQuotesFound = () => {
+  const match = useRouteMatch();
+  console.log(match);
   return (
     <div className={classes.noquotes}>
       <p>No quotes found!</p>
-      <a className='btn'>
+      <Link to={`${match.path}/add`} className='btn'>
         Add a Quote
-      </a>
+      </Link>
     </div>
   );
 };
