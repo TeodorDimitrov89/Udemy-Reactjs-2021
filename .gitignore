@@ -35,4 +35,6 @@ redux-advanced/node_modules
 
 react-router/node_modules
 react-router-practice/node_modules
+
+react-authentication/node_modules
 .vscode/
