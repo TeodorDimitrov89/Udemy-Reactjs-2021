@@ -15,15 +15,15 @@
 
 .ModalOpen {
     animation: openModal 0.4s ease-out forwards;
-    /* opacity: 1;
-    transform: translateY(0); */
 }
 
 .ModalClosed {
-    animation: closeModal 0.4s ease-out forwards;
-    /* opacity: 0; */
-    /* transform: translateY(-100%);  */
+    animation: closeModal 1s ease-out forwards;
 }
+
+
+
+
 
 @keyframes openModal {
     0% {
