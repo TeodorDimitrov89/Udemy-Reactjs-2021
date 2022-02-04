@@ -42,4 +42,8 @@ react-next-js/node_modules
 
 react-animation/node_modules
 ./react-animation/node_modules
+
+react-replace-redux/node_modules
+./react-replace-redux/node_modules
+
 .vscode/
