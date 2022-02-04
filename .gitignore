@@ -45,5 +45,6 @@ react-animation/node_modules
 
 react-replace-redux/node_modules
 ./react-replace-redux/node_modules
-
+react-testing-app/node_modules
+./react-testing-app/node_modules
 .vscode/
