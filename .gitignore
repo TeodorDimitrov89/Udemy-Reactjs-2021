@@ -49,4 +49,6 @@ react-testing-app/node_modules
 ./react-testing-app/node_modules
 
 typescript-basics/node_modules
+react-ts/node_modules
+./react-ts/node_modules
 .vscode/
